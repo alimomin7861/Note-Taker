@@ -22,7 +22,7 @@ information. With this application, the user can write and save notes using an E
 * To start using the application, open your browser and go to 
     * `http://localhost:3000/`
 * Websites
-  * [Github]()
+  * [Github Repo](https://github.com/alimomin7861/Note-Taker)
 
 ## Contribution
 n/a
