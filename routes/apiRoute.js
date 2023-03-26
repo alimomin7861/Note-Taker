@@ -5,13 +5,6 @@ const uuid = require('uuid');
 
 const writeFileFunc = util.promisify(fs.writeFile)
 
-// const obj = {
-//     title: "Harry Porter",
-//     text: "Awesome book"
-// }
-
-
-
 // fs.writeFile('./db/data.json', JSON.stringify(obj), (err) => console.log(err))
 
 
